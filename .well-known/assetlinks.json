@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.self.ride.stag",
+      "sha256_cert_fingerprints": [
+        "C7:D0:30:D0:54:BF:28:73:6E:B5:53:41:BF:D0:E3:8E:23:00:5A:43:07:4D:BB:CB:C9:AC:8C:FB:FB:35:99:A6"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.self.ride",
+      "sha256_cert_fingerprints": [
+        "CB:79:02:73:91:72:11:A9:FE:FF:F1:4B:25:38:A2:8F:D9:06:B6:1E:20:84:5F:81:E3:09:DE:B6:0F:12:54:C7"
+      ]
+    }
+  }
+]
